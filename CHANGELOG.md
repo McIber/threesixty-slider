@@ -1,3 +1,6 @@
+## 2.0.6 (Nov 17th, 2015)
+- Fix for jQuery 3.1.1 [Issue #87](https://github.com/creativeaura/threesixty-slider/issues/87)
+
 ## 2.0.5 (Jan 6th, 2015)
 - Fixed typo for AppCongif . [Issue #59](https://github.com/creativeaura/threesixty-slider/issues/59)
 
